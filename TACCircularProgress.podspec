@@ -15,6 +15,7 @@ Pod::Spec.new do |s|
           s.author               = "Nilesh"
           #7.
           s.platform            = :ios, "10.0"
+	  s.swift_version = "4.0"
           #8.
           s.source              = { :git => "https://github.com/NSadava/TACCircularProgress.git", :tag => "0.0.1" }
           #9.
