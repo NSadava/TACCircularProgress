@@ -1,6 +1,0 @@
-framework module Pods_TACCircularProgress_Tests {
-  umbrella header "Pods-TACCircularProgress_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
