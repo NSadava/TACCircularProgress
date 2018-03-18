@@ -1,0 +1,6 @@
+framework module TACCircularProgress {
+  umbrella header "TACCircularProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}

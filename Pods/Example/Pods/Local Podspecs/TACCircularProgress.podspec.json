@@ -1,0 +1,22 @@
+{
+  "name": "TACCircularProgress",
+  "version": "0.1.0",
+  "summary": "A short description of TACCircularProgress.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/npatel@tacme.com/TACCircularProgress",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "npatel@tacme.com": "npatel@tacme.com"
+  },
+  "source": {
+    "git": "https://github.com/npatel@tacme.com/TACCircularProgress.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TACCircularProgress/Classes/**/*"
+}
